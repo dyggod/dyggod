@@ -48,4 +48,4 @@ hi~这里是 dyg 的 space，如果你看到这里，我想你一定是个时常
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dyggod&repo=YunNiao&show_owner=true&&theme=cobalt)](https://github.com/dyggod/YunNiao)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dyggod&repo=growser&show_owner=true&&theme=cobalt)](https://github.com/dyggod/growser)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dyggod&repo=nest-fluebot&show_owner=true&&theme=cobalt)](https://github.com/dyggod/nest-fluebot)
