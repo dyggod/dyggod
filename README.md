@@ -40,7 +40,7 @@ hi~这里是 dyg 的 space，如果你看到这里，我想你一定是个时常
 
 </div>
 
-### 🏊 更多仓库
+## 🏊 更多仓库
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dyggod&repo=vue2-template&show_owner=true&&theme=cobalt)](https://github.com/dyggod/vue2-template)
 
