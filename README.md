@@ -1,3 +1,11 @@
+<!--
+ * @Author: Yinggang.Dong
+ * @Date: 2022-07-26 09:41:33
+ * @LastEditors: Yinggang.Dong
+ * @LastEditTime: 2022-07-27 09:49:52
+ * @FilePath: \dyggod\README.md
+ * @Description: 
+-->
 ## 👋 here~
 
 <div align="center">
@@ -18,15 +26,7 @@ hi~这里是 dyg 的 space，如果你看到这里，我想你一定是个时常
 
 ## 🧰 语言工具
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+[![My Skills](https://skillicons.dev/icons?i=vue,react,js,ts,nodejs,nestjs,vite,webpack,css,sass,tailwind,mongodb,mysql,grafana,jest,md,git,github&theme=light)](https://skillicons.dev)
 
 ## 💻 github stats
 
