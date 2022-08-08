@@ -20,6 +20,8 @@ hi~这里是 dyg 的 space，如果你看到这里，我想你一定是个时常
 
 技术无止境，知识无极限。无论是作为开发者还是作为人生的前行者，都需要抱有对新事物的探索精神，对老事物的沉淀精神，或许我不是一个技术大牛也不能成为真正的技术大牛，但我保持热爱与学习、交流与热忱。愿你，愿我，都能嘎嘎进步。
 
+欢迎大家浏览[我的blog](https://dyggod.github.io/blog/): https://dyggod.github.io/blog/ 
+
 ## ✨ 欢迎来访
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=dyggod.dyggod)![](https://badges.pufler.dev/years/dyggod)![](https://badges.pufler.dev/repos/dyggod)![](https://badges.pufler.dev/commits/monthly/dyggod)![](https://img.shields.io/github/followers/dyggod?label=Followers)[![Mail Badge](https://img.shields.io/badge/-dyggod@163.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dyggod@163.com)](mailto:dyggod@163.com)
