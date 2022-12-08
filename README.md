@@ -16,7 +16,7 @@
 
 Hey~ here's dyg, enjoy life, enjoy coding, my friend.
 
-eating、sleeping、coding、playing、sex
+eating、sleeping、coding、playing、sex.
 
 欢迎大家浏览[我的blog](https://dyggod.github.io/blog/): https://dyggod.github.io/blog/ 
 
