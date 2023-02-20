@@ -14,13 +14,13 @@
 
 </div>
 
-hi~这里是 dyg 的 space，如果你看到这里，我想你一定是个时常在 github 上探索发掘的人，因为我的 github 是如此的不起眼，但仍被你发现。
+Hey~ here's dyg, enjoy life, enjoy coding, my friend.
 
-作为一个在嘈杂的 Chinese 开发环境下的一家平凡公司的平凡程序员，我的眼光并不广阔，技术不够扎实，所以我试图融入国际，融入繁荣的 github 生态，于是你看到了这个略有设计的主页。在此感谢所有为我提供知识的朋友。
-
-技术无止境，知识无极限。无论是作为开发者还是作为人生的前行者，都需要抱有对新事物的探索精神，对老事物的沉淀精神，或许我不是一个技术大牛也不能成为真正的技术大牛，但我保持热爱与学习、交流与热忱。愿你，愿我，都能嘎嘎进步。
+eating、sleeping、coding、playing、sex.
 
 欢迎大家浏览[我的blog](https://dyggod.github.io/blog/): https://dyggod.github.io/blog/ 
+
+欢迎大家使用[DG-UI](https://dyggod.github.io/dg-ui/)
 
 ## ✨ 欢迎来访
 
