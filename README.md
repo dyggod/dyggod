@@ -22,6 +22,8 @@ eating、sleeping、coding、playing、sex.
 
 欢迎大家使用[DG-UI](https://dyggod.github.io/dg-ui/)
 
+掘金主页: [dyggod](https://juejin.cn/user/3479325967918887)
+
 ## ✨ 欢迎来访
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=dyggod.dyggod)![](https://badges.pufler.dev/years/dyggod)![](https://badges.pufler.dev/repos/dyggod)![](https://badges.pufler.dev/commits/monthly/dyggod)![](https://img.shields.io/github/followers/dyggod?label=Followers)[![Mail Badge](https://img.shields.io/badge/-dyggod@163.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dyggod@163.com)](mailto:dyggod@163.com)
