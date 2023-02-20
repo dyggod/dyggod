@@ -46,7 +46,7 @@ hi~这里是 dyg 的 space，如果你看到这里，我想你一定是个时常
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dyggod&repo=vue2-template&show_owner=true&&theme=cobalt)](https://github.com/dyggod/vue2-template)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dyggod&repo=packbox&show_owner=true&&theme=cobalt)](https://github.com/dyggod/packbox)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dyggod&repo=dg-design-vue&show_owner=true&&theme=cobalt)](https://github.com/dyggod/dg-design-vue)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dyggod&repo=YunNiao&show_owner=true&&theme=cobalt)](https://github.com/dyggod/YunNiao)
 
