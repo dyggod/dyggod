@@ -28,11 +28,11 @@ eating、sleeping、coding、playing、sex.
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=dyggod.dyggod)![](https://badges.pufler.dev/years/dyggod)![](https://badges.pufler.dev/repos/dyggod)![](https://badges.pufler.dev/commits/monthly/dyggod)![](https://img.shields.io/github/followers/dyggod?label=Followers)[![Mail Badge](https://img.shields.io/badge/-dyggod@163.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dyggod@163.com)](mailto:dyggod@163.com)
 
-## 🧰 语言工具
+<!-- ## 🧰 语言工具
 
-[![My Skills](https://skillicons.dev/icons?i=vue,react,js,ts,nodejs,nestjs,vite,webpack,css,sass,tailwind,mongodb,mysql,grafana,jest,md,git,github&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,react,js,ts,nodejs,nestjs,vite,webpack,css,sass,tailwind,mongodb,mysql,grafana,jest,md,git,github&theme=light)](https://skillicons.dev) -->
 
-## 💻 github stats
+<!-- ## 💻 github stats
 
 <div align="center">
 
@@ -42,9 +42,9 @@ eating、sleeping、coding、playing、sex.
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dyggod&bg_color=ffffff&color=2f90da&line=3394f0&point=09c338&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</div>
+</div> -->
 
-## 🏊 更多仓库
+<!-- ## 🏊 更多仓库
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dyggod&repo=vue2-template&show_owner=true&&theme=cobalt)](https://github.com/dyggod/vue2-template)
 
@@ -52,4 +52,4 @@ eating、sleeping、coding、playing、sex.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dyggod&repo=YunNiao&show_owner=true&&theme=cobalt)](https://github.com/dyggod/YunNiao)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dyggod&repo=nest-fluebot&show_owner=true&&theme=cobalt)](https://github.com/dyggod/nest-fluebot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dyggod&repo=nest-fluebot&show_owner=true&&theme=cobalt)](https://github.com/dyggod/nest-fluebot) -->
